@@ -1,6 +1,10 @@
 RENCANA KONTEN WPU
 - Rust
+  * Basic
 - Python
+  * AI
 - PHP
 - Java
+  * Mobile Apps
 - C
+  * Virus
