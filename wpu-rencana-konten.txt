@@ -1,9 +1,11 @@
 RENCANA KONTEN WPU
 - Rust
   * Basic
+   ^ keamanan web
 - Python
   * AI
-- PHP
+- Javascript
+ * Belajar script dark
 - Java
   * Mobile Apps
 - C
